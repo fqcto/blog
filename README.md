@@ -22,6 +22,12 @@ github访问博客慢，这是痛点。但是掏钱买域名和云主机更痛�
 我花大把大把的时间写各种demo，只求给个star，多一个star对我就是莫大的鼓励。
 ```
 
+### 博客访问地址
+
+```txt
+https://qzruncode.github.io/blog
+```
+
 ### 我的联系方式
 
 ```txt
