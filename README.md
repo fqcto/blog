@@ -26,14 +26,6 @@ github访问博客慢，这是痛点。但是掏钱买域名和云主机更痛�
 
 ```txt
 https://qzruncode.github.io/blog
-觉得访问慢看下面
-```
-
-### CDN加速访问
-
-```txt
-花一元钱弄了一个域名然后搞了个国外的dns解析服务器，不知道是不是快些，哈哈
-http://profos.xyz/
 ```
 
 ### 我的联系方式
